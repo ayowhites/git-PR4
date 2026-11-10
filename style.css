@@ -1,0 +1,26 @@
+.headerm {
+  display: flex; 
+  justify-content: space-between; 
+  align-items: center; 
+  padding: 20px 40px; 
+  background-color: #ffffff;  
+  
+}
+.logo {
+  font-size: 30px;
+  color: #b3b3b3; 
+  cursor: pointer;
+  font-family: sans-serif;
+  margin-top: 10px;
+  margin-left:15px;
+}
+.nav {
+  display: flex;
+  gap: 20px; 
+}
+.nav-link {
+font-family: sans-serif;
+  color: #333333; 
+  font-size: 20px;
+  cursor: pointer;
+}
